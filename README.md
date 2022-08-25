@@ -10,4 +10,5 @@
 grey_image = cv2.cvtColor(lane_image, cv2.COLOR_RGBGRAY)
 cv2.imshow('result'. grey_image)
 ```
-
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
